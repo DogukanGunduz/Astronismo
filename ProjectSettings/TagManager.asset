@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gate
+  - Trap
+  - Enemy
+  - Alien
+  - Teleporter
+  - Music
+  - ConstantAstronot
+  - rightPosition
+  - leftPosition
+  - ButtonPopup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Uzayli
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2167009339
+    locked: 0
+  - name: Kapi
+    uniqueID: 862147537
+    locked: 0
+  - name: Character
+    uniqueID: 1787745223
+    locked: 0
+  - name: Terrain
+    uniqueID: 3378308089
+    locked: 0
+  - name: EnOn
+    uniqueID: 2995713019
+    locked: 0
